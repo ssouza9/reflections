@@ -1,0 +1,3 @@
+lesson_2_reflections.txt
+
+when you initialize a repository you let git know you want to use it in git
